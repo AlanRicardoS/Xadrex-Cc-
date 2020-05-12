@@ -20,5 +20,10 @@ namespace Xadrez.Tabuleiro
         {
             return pecas[Linha, Coluna];
         }
+        public void ColocarUmaPeca(Peca P, Posicao Pos)
+        {
+            pecas[Pos.Linha, Pos.Coluna] = P;
+            P.posicao = Pos ;
+        }
     }
 }
