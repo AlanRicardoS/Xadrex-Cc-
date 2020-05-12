@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\Xadrex-Cc-\Xadrez\Xadrez\obj\Debug\netcoreapp3.1\Xadrez.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\Xadrex-Cc-\Xadrez\Xadrez\obj\Debug\netcoreapp3.1\Xadrez.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\Xadrex-Cc-\Xadrez\Xadrez\obj\Debug\netcoreapp3.1\Xadrez.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\Xadrex-Cc-\Xadrez\Xadrez\obj\Debug\netcoreapp3.1\Xadrez.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\Xadrex-Cc-\Xadrez\Xadrez\bin\Debug\netcoreapp3.1\Xadrez.exe
+C:\Users\alanr\Documents\dev\Xadrex-Cc-\Xadrez\Xadrez\bin\Debug\netcoreapp3.1\Xadrez.deps.json
+C:\Users\alanr\Documents\dev\Xadrex-Cc-\Xadrez\Xadrez\bin\Debug\netcoreapp3.1\Xadrez.runtimeconfig.json
+C:\Users\alanr\Documents\dev\Xadrex-Cc-\Xadrez\Xadrez\bin\Debug\netcoreapp3.1\Xadrez.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\Xadrex-Cc-\Xadrez\Xadrez\bin\Debug\netcoreapp3.1\Xadrez.dll
+C:\Users\alanr\Documents\dev\Xadrex-Cc-\Xadrez\Xadrez\bin\Debug\netcoreapp3.1\Xadrez.pdb
+C:\Users\alanr\Documents\dev\Xadrex-Cc-\Xadrez\Xadrez\obj\Debug\netcoreapp3.1\Xadrez.dll
+C:\Users\alanr\Documents\dev\Xadrex-Cc-\Xadrez\Xadrez\obj\Debug\netcoreapp3.1\Xadrez.pdb
+C:\Users\alanr\Documents\dev\Xadrex-Cc-\Xadrez\Xadrez\obj\Debug\netcoreapp3.1\Xadrez.genruntimeconfig.cache
